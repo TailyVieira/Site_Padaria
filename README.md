@@ -2,7 +2,7 @@
 
 ## Description
 
-Site Desenvolvida para uma padaria. 
+Site Desenvolvido para uma padaria. 
 
 ## Technologies Used
 
