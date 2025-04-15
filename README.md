@@ -9,4 +9,3 @@ Site Desenvolvida para uma padaria.
 - JavaScript
 - CSS
 - Html
-
