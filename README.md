@@ -10,9 +10,9 @@ Primeiro projeto web desenvolvido durante a graduação, no qual tive o primeiro
 
 ## Project web 
 
-Diciplina: Desemvolvimento de aplicações
-Fase: 2
-Professor: Giácomo
+- Diciplina: Desemvolvimento de aplicações
+- Fase: 2
+- Professor: Giácomo
 
 ## Technologies Used
 
